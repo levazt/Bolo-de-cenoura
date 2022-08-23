@@ -1,6 +1,6 @@
 header{
-	background: #BBBBBB;
-	padding: 20px 0;
+	background: #F5B041;
+	padding: 10px 0;
 }
 #logo{
 	width: 30%;
@@ -8,7 +8,7 @@ header{
 .caixa{
 	position: relative;
 	width: 940px;
-	margin: 0 auto;
+	margin: 2 auto;
 }
 nav {
 	position: absolute;
@@ -22,13 +22,13 @@ nav li{
 }
 nav a{
 	text-transform: uppercase;
-	color: #000000;
+	color: #F7DC6F
 	font-weight: bold;
 	font-size: 22px;
 	text-decoration: none;
 }
 
-.produtos li{
+.aula li{
 	display: inline-block;
 	text-align: center;
 
@@ -39,6 +39,6 @@ nav a{
 	
 	}
 	#banner{
-		width: 30%
+		width: 40%
 	}
 	
